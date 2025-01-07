@@ -1,6 +1,6 @@
 // API Configuration
 const API_CONFIG = {
-    endpoint: 'https://muftiai-hlv9.onrender.com/chat', // Replace with your actual endpoint
+    endpoint: 'https://muftiai-607757000261.us-central1.run.app/chat', // Replace with your actual endpoint
     headers: {
         'Content-Type': 'application/json'
     },
